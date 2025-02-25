@@ -21,3 +21,8 @@ Python yüklü değilse şu adresten indirip yükleyebilirsiniz: [Python İndir]
 ```bash
 git clone https://github.com/alpercevizz/company-management.git
 cd company-management
+```
+### **2️⃣ Programı Çalıştırın**
+```bash
+python company.py
+```
