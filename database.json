@@ -1,0 +1,23 @@
+[
+    {
+        "emp_id": 1,
+        "name": "Alper",
+        "age": 28,
+        "email": "alper@alper.com",
+        "salary": 48000
+    },
+    {
+        "emp_id": 2,
+        "name": "Can",
+        "age": 40,
+        "email": "can@can.com",
+        "salary": 85000
+    },
+    {
+        "emp_id": 3,
+        "name": "Ali",
+        "age": 34,
+        "email": "ali@ali.com",
+        "salary": 60000
+    }
+]
